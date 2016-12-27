@@ -1,9 +1,8 @@
 ---
-layout: pageNC
+layout: page
 title: Archive
+comments: false
 ---
-
-## Blog Posts
 
 Other older posts can still be seen [at an older version of the blog](http://bobsica.blogspot.ca).
 
