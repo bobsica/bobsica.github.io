@@ -4,7 +4,7 @@ title: About
 comments: false
 ---
 
-Welcome to what passes for my fun side. My work side (lidars and university professing) is over at [purplecrowlidar.ca](http://purplecrowlidar.ca).
+Welcome to what passes for my fun side. My work side (lidars and university professing) is over at the [Purple Crow Lidar blog](http://pclblog.bobsica.com) or at our [homepage](http://pcl.physics.uwo.ca).
 
 Bob Sica
 <br>
