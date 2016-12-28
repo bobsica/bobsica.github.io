@@ -18,10 +18,12 @@
         </h3>
       </div>
 
-      {{ content }}      
+      {{ content }}  
+      {% include twitter_plug.html %}
       {% include comments.html %}
 
       <div class="footer">
+        <p> Newer posts: click on post heading to enable comments (via disqus).</p>
         <p>
           &copy; {{ site.time | date: '%Y' }}. All rights reserved.
         </p>
