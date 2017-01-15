@@ -7,7 +7,7 @@ image: http://bobsica.com/public/dennisElsasJohnLennon.jpg
 author: bobsica
 ---
 
-![28 September 1974: John Lennon drops in on Dennis Elsas  at WNEW-FM in NYC. Image from Dennis Elsas' website.[^Elsas] ](http://bobsica.com/public/dennisElsasJohnLennon.jpg)
+![28 September 1974: John Lennon drops in on Dennis Elsas  at WNEW-FM in NYC. Image from Dennis Elsas' website. ](http://bobsica.com/public/dennisElsasJohnLennon.jpg)
 
 Trying to see if anything works
 
