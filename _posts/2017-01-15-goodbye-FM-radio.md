@@ -23,4 +23,4 @@ How and where we listen to music and assimilate pop culture is so different now.
 
 [^LennonQuip]: "he said losing his green card..."
 
-[^album]: Although ultimately I did find it in a cut-out bin.
+[^album]: Although ultimately I did find it in a cut-out album bin.
