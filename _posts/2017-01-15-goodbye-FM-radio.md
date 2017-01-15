@@ -15,9 +15,9 @@ Rainy Sunday afternoon, 28 September 1974. I was in first year at university, si
 
 !["John Lennon drops in on Dennis Elsas at WNEW-FM in NYC. Image from Dennis Elsas' website."](http://bobsica.com/public/dennisElsasJohnLennon.jpg)
 
-Ha the weather report Lennon read was silly and a total LOL on his reading of the ad for the NJ club "The Joint in the Woods."[^LennonQuip] 
+Ha the weather report Lennon read was silly and a total LOL on his reading of the ad for the NJ club *The Joint in the Woods.*[^LennonQuip] 
 
-Sadly I also remember sitting my in the penthouse of the [University of Alaska's Geophysical Institute] (http://www.gi.alaska.edu) working on my thesis instrument, a [Fabry Perot interferometer](https://en.m.wikipedia.org/wiki/Fabry–Pérot_interferometer) and hearing what went down on 8 Dec 1980. And then was another time I got much older. And I didn't hear that on FM because back then Fairbanks was mostly off the grid and we liked it like that.
+Sadly I also remember sitting my in the penthouse of the [University of Alaska's Geophysical Institute] (http://www.gi.alaska.edu) working on my thesis instrument, a [Fabry Perot interferometer](https://en.m.wikipedia.org/wiki/Fabry–Perot_interferometer) and hearing what went down on 8 Dec 1980. And then was another time I got much older. And I didn't hear that on FM because back then Fairbanks was mostly off the grid and we liked it like that.
 
 How and where we listen to music and assimilate pop culture is so different now. So much choice. No better, not worse, but kids I remember that I would sit up way to late to hear [Lothar and the Hand People's ](http://lotharandthehandpeople.com/wp-content/uploads/2011/11/presenting_thumb.jpg) *Space Hymn*, because you just could not hear it any other way but on FM radio.[^album]
 
