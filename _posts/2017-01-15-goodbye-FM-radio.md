@@ -15,7 +15,7 @@ Rainy Sunday afternoon, 28 September 1974. I was in first year at university, si
 
 ![John Lennon drops in on Dennis Elsas at WNEW-FM in NYC. Image from Dennis Elsas' website.]({{ site.url }}/public/dennisElsasJohnLennon.jpg) 
 
-     **John Lennon drops in on Dennis Elsas at WNEW-FM in NYC.**
+     John Lennon drops in on Dennis Elsas at WNEW-FM in NYC.
 
 Ha the weather report Lennon read was silly and a total LOL on his reading of the ad for the NJ club *The Joint in the Woods.[^LennonQuip]*
 
