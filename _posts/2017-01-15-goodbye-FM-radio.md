@@ -9,6 +9,8 @@ author: bobsica
 
 ![28 September 1974: John Lennon drops in on Dennis Elsas  at WNEW-FM in NYC. Image from Dennis Elsas' website.[^Elsas] ](http://bobsica.com/public/dennisElsasJohnLennon.jpg)
 
+Trying to see if anything works
+
 The death march for FM radio has started and [Norway is leading the charge](https://www.theguardian.com/world/2017/jan/05/norway-first-to-start-switching-off-fm-radio?CMP=Share_iOSApp_Other), beginning to switch off FM radio this month (January 2017). Switzerland, Britain, Denmark among others to follow.
 
 I am now officially old. I have a real, indisputable benchmark. FM radio in the NYC burbs in the 60/70s is where *all* the cool kids hung out. Dennis Elsas. Alison Steele. Jonathan Schwartz. Dave Herman. Vince Scelsa and man he was the trippy-est, he got the weird shifts at the times you were really ready to listen, and as soon as you heard the tape loop ending with "I have a feeling we're not in Kansas anymore" it was Game On for the heads.
