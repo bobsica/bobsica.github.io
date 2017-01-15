@@ -7,7 +7,7 @@ image: http://bobsica.com/public/dennisElsasJohnLennon.jpg
 author: bobsica
 ---
 
-![28 September 1974: John Lennon drops in on Dennis Elsas  at WNEW-FM in NYC. Image from Dennis Elsas' website. ](http://bobsica.com/public/dennisElsasJohnLennon.jpg)
+![a caption](http://bobsica.com/public/dennisElsasJohnLennon.jpg)
 
 The death march for FM radio has started and [Norway is leading the charge](https://www.theguardian.com/world/2017/jan/05/norway-first-to-start-switching-off-fm-radio?CMP=Share_iOSApp_Other), beginning to switch off FM radio this month (January 2017). Switzerland, Britain, Denmark among others to follow.
 
