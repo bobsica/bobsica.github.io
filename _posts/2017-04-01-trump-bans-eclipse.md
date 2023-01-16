@@ -7,6 +7,9 @@ image: http://blog.bobsica.com/public/1april-eclipse.png
 author: bobsica
 --- 
 
+# Blog has moved!
+New stuff in [My Bobiverse is here.](https://bobsica.com) 
+
 ![New path of the 2017 solar eclipse.](http://blog.bobsica.com/public/1april-eclipse.png "2017 eclipse.")
     
 President Trump today extended his controversial travel ban to include our closest star, The Sun. The travel ban now includes the eclipsing of solar system objects in a manner that "decreases luminosity reaching the soil of the USA or its territories." This order effectively eliminates the potentially deliberate action of our Moon to completely block sunlight from reaching the surface, impacting the lives of millions of Americans, on August 17, 2017. White House Press Sean Spicer said when questioned:
