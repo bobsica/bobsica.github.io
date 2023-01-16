@@ -3,7 +3,7 @@ layout: post
 title: FM Radio is Dead so I Move on
 comments: True
 publish: true 
-image: http://bobsica.com/public/dennisElsasJohnLennon.jpg
+image: http://blog.bobsica.com/public/dennisElsasJohnLennon.jpg
 author: bobsica
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: Trump Travel Ban Extends to 2017 Solar Eclipse
 comments: True
 publish: true 
-image: http://bobsica.com/public/1april-eclipse.png
+image: http://blog.bobsica.com/public/1april-eclipse.png
 author: bobsica
 --- 
 
