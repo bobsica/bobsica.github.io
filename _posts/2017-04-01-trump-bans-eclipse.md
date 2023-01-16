@@ -7,7 +7,7 @@ image: http://blog.bobsica.com/public/1april-eclipse.png
 author: bobsica
 --- 
 
-# Blog has moved!
+# Blog has moved! (15 January 2023)
 New stuff in [My Bobiverse is here.](https://bobsica.com) 
 
 ![New path of the 2017 solar eclipse.](http://blog.bobsica.com/public/1april-eclipse.png "2017 eclipse.")
