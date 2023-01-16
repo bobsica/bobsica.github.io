@@ -11,7 +11,7 @@ The death march for FM radio has started and [Norway is leading the charge](http
 
 I am now officially old. I have a real, indisputable benchmark. FM radio in the NYC burbs in the 60/70s is where *all* the cool kids hung out. Dennis Elsas. Alison Steele. Jonathan Schwartz. Dave Herman. Vince Scelsa and man he was the trippy-est, he got the weird shifts at the times you were really ready to listen, and as soon as you heard the tape loop ending with "I have a feeling we're not in Kansas anymore" it was Game On for the heads.
 
-![John Lennon drops in on Dennis Elsas at WNEW-FM in NYC. Image from Dennis Elsas' website.]({{ site.url }}/public/dennisElsasJohnLennon.jpg) 
+![John Lennon drops in on Dennis Elsas at WNEW-FM in NYC. Image from Dennis Elsas' website.](http://blog.bobsica.com/public/dennisElsasJohnLennon.jpg) 
 
      John Lennon drops in on Dennis Elsas at WNEW-FM in NYC.
 
